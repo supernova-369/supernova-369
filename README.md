@@ -14,9 +14,9 @@ Learning a hell lot of things! Definitely not gonna list here
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=supernova-369&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=supernova-369&theme=tokyonight)
 
 
 ---
@@ -29,5 +29,5 @@ Learning a hell lot of things! Definitely not gonna list here
 ---
 
 ## 👀 Profile Views
-![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Views](https://komarev.com/ghpvc/?username=supernova-369)
+![Snake animation](https://github.com/supernova-369/supernova-369/blob/output/github-contribution-grid-snake.svg)
