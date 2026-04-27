@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Yash;C+Programmer;Frontend+Developer;Building+Cool+Projects" />
 # Hi, I'm SuperNova 👋
 
@@ -15,9 +14,10 @@ Learning a hell lot of things! Definitely not gonna list here
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
 
 ---
 
@@ -30,3 +30,4 @@ Learning a hell lot of things! Definitely not gonna list here
 
 ## 👀 Profile Views
 ![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
