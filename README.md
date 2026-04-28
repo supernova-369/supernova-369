@@ -265,9 +265,8 @@ OPEN CHANNELS — Supernova is reachable at:
 ```
 
 [![GitHub](https://img.shields.io/badge/GITHUB-supernova--369-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D)](https://github.com/supernova-369)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/TWITTER-follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D0D0D)](https://twitter.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/GMAIL-message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://linkedin.com/in/yash-sheth-890657317)
+[![Gmail](https://img.shields.io/badge/GMAIL-message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:sheth1047@gmail.com)
 
 <br/>
 
