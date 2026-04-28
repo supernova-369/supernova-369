@@ -104,7 +104,7 @@ mission_statement: >
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html&theme=dark&perline=8" />
 
-### ◈ CURRENTLY LOADING
+### ◈ Unlocking Next
 
 <img src="https://skillicons.dev/icons?i=java,js,css,react&theme=dark&perline=8" />
 
