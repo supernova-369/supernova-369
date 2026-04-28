@@ -9,18 +9,7 @@
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=Initializing+developer+profile...;Loading+Supernova.exe...;C+%2F+C%2B%2B+%7C+Python+%7C+HTML+%E2%9C%94;Executing+ideas+at+the+speed+of+light+%E2%9A%A1;Open+Source+mode%3A+ENGAGED+%F0%9F%9A%80;Build.+Break.+Learn.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
 
-<br/>
-
-<!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D0D0D&color=00FF41" />
-&nbsp;
-<img src="https://img.shields.io/badge/MODE-LEARNING-A855F7?style=for-the-badge&labelColor=0D0D0D" />
-&nbsp;
-<img src="https://img.shields.io/badge/SYSTEM-SUPERNOVA_OS-7C3AED?style=for-the-badge&labelColor=0D0D0D" />
-&nbsp;
-<img src="https://img.shields.io/badge/VIBE-GALAXY_BRAIN-FF6B6B?style=for-the-badge&labelColor=0D0D0D" />
-
-<br/><br/>
+<br></br>
 
 <img src="https://komarev.com/ghpvc/?username=supernova-369&color=A855F7&style=for-the-badge&label=VISITORS" />
 &nbsp;
@@ -66,14 +55,14 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║   ██████╗ ██████╗  ██████╗ ███████╗██╗██╗               ║
-║   ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║               ║
-║   ██████╔╝██████╔╝██║   ██║█████╗  ██║██║               ║
-║   ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║               ║
-║   ██║     ██║  ██║╚██████╔╝██║     ██║███████╗          ║
-║   ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝          ║
+║   ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗   ║
+║   ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝   ║
+║   ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗     ║
+║   ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝     ║
+║   ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗   ║
+║   ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝   ║
 ║                                                          ║
-║          >>> ACCESS GRANTED <<<                          ║
+║                 >>> ACCESS GRANTED <<<                   ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -85,12 +74,10 @@ identity:
   handle     : "Supernova"
   role       : "Student Developer"
   location   : "India 🇮🇳"
-  status     : "Building something crazy 🔥"
+  status     : "Building something crazy!"
 
-core_skills:
+core_skills (Languages Only):
   proficient : ["C", "C++", "Python", "HTML"]
-  learning   : ["Java", "JavaScript", "CSS", "React"]
-  next_up    : ["Node.js", "MongoDB", "DSA", "OS Concepts"]
 
 operating_params:
   mode       : "Always learning"
@@ -100,7 +87,7 @@ operating_params:
 
 mission_statement: >
   Turn ideas into reality. Break limits. Ship code.
-  The universe is still expanding — and so am I. 🌌
+  The universe is still expanding — and so I am. 🌌
 ```
 
 ---
@@ -120,10 +107,6 @@ mission_statement: >
 ### ◈ CURRENTLY LOADING
 
 <img src="https://skillicons.dev/icons?i=java,js,css,react&theme=dark&perline=8" />
-
-### ◈ TOOLS & ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=8" />
 
 </div>
 
@@ -159,13 +142,7 @@ mission_statement: >
 ## 🐍 COMMIT DEVOURER
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supernova-369/supernova-369/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/supernova-369/supernova-369/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/supernova-369/supernova-369/output/github-contribution-grid-snake.svg" />
-</picture>
-
+  <img src="https://raw.githubusercontent.com/supernova-369/supernova-369/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -192,10 +169,10 @@ mission_statement: >
 ╔══════════════════════════════════════════════════════════════════╗
 ║  PROJECT DIRECTORY                          [CLASSIFIED LEVEL 5] ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  ► Project Alpha        [IN PROGRESS] ████████░░░░  70%         ║
-║  ► Project Beta         [IN PROGRESS] ██████░░░░░░  55%         ║
-║  ► Mystery Drop #1      [STEALTH]     ████░░░░░░░░  ??? %       ║
-║  ► Mystery Drop #2      [IDEATION]    ██░░░░░░░░░░  Ideas only  ║
+║  ► Project Lugguage     [Almost Done] █████████░░░  80%          ║
+║  ► Project Exchange     [IN PROGRESS] ██████░░░░░░  55%          ║
+║  ► Mystery              [STEALTH]     ████░░░░░░░░  ??? %        ║
+║  ► Project RUN          [IDEATION]    ██░░░░░░░░░░  Ideas only   ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  ⚠  WARNING: Exciting projects incoming. Watch this space. ⚠    ║
 ╚══════════════════════════════════════════════════════════════════╝
@@ -216,14 +193,15 @@ SUPERNOVA DEVELOPMENT TIMELINE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   [✅] PHASE 1 — IGNITION
+       ✔  Shipped first HTML pages.
+       ✔  Built Python foundation.
        ✔  Mastered C & C++ fundamentals
-       ✔  Built Python foundation
-       ✔  Shipped first HTML pages
+       
 
-  [🔥] PHASE 2 — LIFTOFF  ◄ YOU ARE HERE
-       ◻  Master JavaScript & DOM
-       ◻  Learn CSS & make things beautiful
-       ◻  Build first full web project
+  [🔥] PHASE 2 — LIFTOFF  ◄ I am HERE
+       ◻  Master JavaScript.
+       ◻  Learn CSS & make things beautiful.
+       ◻  Build first full web project.
 
   [🚀] PHASE 3 — ORBIT
        ◻  Learn React & Node.js
@@ -232,7 +210,6 @@ SUPERNOVA DEVELOPMENT TIMELINE
 
   [🌌] PHASE 4 — DEEP SPACE
        ◻  Land internship / first opportunity
-       ◻  Contribute to major OSS projects
        ◻  Keep going — no ceiling defined
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -271,7 +248,7 @@ OPEN CHANNELS — Supernova is reachable at:
 <br/>
 
 ```
-⚡ Response time: Fast   |   ☕ Fuelled by: Coffee   |   🌌 Powered by: Curiosity
+⚡ Response time: Fast   |   ☕ Fuelled by: Hunger   |   🌌 Powered by: Curiosity
 ```
 
 </div>
